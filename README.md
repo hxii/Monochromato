@@ -1,5 +1,6 @@
 # Monochromato
 **Monochromato** is a minimalistic, clean, content-driven theme for [Bludit](http://www.bludit.com) made with ❤, coffee and a healthy dose of SASS.
+[Theme Demo](http://somn.us)
 
 ![Monochromato](http://i.imgur.com/hrHNkKB.jpg)
 
